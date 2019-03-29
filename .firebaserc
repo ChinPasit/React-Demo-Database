@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "react-chapter8",
+    "react-chapter8": "chin-bed7c",
+    "firebase-react-deploy": "react-chapter8"
+  }
+}
